@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.*;
 
-public class GuessingGame {
+public class codsoft_𝒕𝒂𝒔𝒌𝒏𝒐.1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
