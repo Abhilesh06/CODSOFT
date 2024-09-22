@@ -91,7 +91,7 @@ class ATM {
 }
 
 // Main class to run the ATM simulation
-public class AtmInterface {
+public class codsoft_𝒕𝒂𝒔𝒌𝒏𝒐.3 {
     public static void main(String[] args) {
         BankAccount account = new BankAccount(1000.0); // Initialize account with $1000
         ATM atm = new ATM(account);
