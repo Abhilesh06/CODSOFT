@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GradeCalculator {
+public class codsoft_𝒕𝒂𝒔𝒌𝒏𝒐.2 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
